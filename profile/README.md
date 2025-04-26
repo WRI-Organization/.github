@@ -1,12 +1,16 @@
-## Hi there 👋
+# WRI 🌎
 
-<!--
+국가 여행 정보 (World Risk Information)
+- Web, Android 버전 제작 중
 
-**Here are some ideas to get you started:**
+## API
+공공데이터포털
+- 외교부_국가∙지역별 여행경보 (15076237)
+- 외교부_국가별 기본정보 (15000830)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 추가 예정 API
+API 추가 방안
+- 나라별 환율(화폐 데이터)
+- 뉴스
+- 날씨
+- 비행기
